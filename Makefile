@@ -6,3 +6,4 @@ day-1:
 .PHONY: day-2
 day-2:
 	./day-2/part-1.clj
+	./day-2/part-2.clj
